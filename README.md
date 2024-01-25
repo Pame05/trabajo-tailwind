@@ -1,3 +1,9 @@
+
+![image](https://github.com/Pame05/trabajo-tailwind/assets/146900728/7293cb65-5b20-4d8a-bd04-af490e7b389d)
+
+![image](https://github.com/Pame05/trabajo-tailwind/assets/146900728/adeb4625-6588-4bf6-81b1-941a6f22991e)
+
+
 # TrabajoTailwind
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
